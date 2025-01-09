@@ -60,6 +60,6 @@ Identify trends in recent user activity.
 Advanced Filtering:
 Use of regular expressions for email validation and filtering.
 
-License
+License :
 This project is open for learning and improvement. Feel free to use, modify, and contribute.
 
